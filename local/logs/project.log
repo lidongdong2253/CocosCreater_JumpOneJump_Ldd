@@ -1,0 +1,75 @@
+2018-04-15T14:26:28.603Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-15T14:26:28.606Z - normal: checking language setting...
+2018-04-15T14:26:28.606Z - normal: Language: zh
+2018-04-15T14:26:29.126Z - success: protocol editor-framework registered
+2018-04-15T14:26:29.126Z - success: protocol app registered
+2018-04-15T14:26:29.126Z - success: protocol theme registered
+2018-04-15T14:26:29.126Z - success: protocol packages registered
+2018-04-15T14:26:29.127Z - success: protocol unpack registerred
+2018-04-15T14:26:29.127Z - success: protocol disable-commonjs registerred
+2018-04-15T14:26:32.117Z - normal: failed to connect login server due to request timeout
+2018-04-15T14:26:32.118Z - normal: Check project /Users/lidongdong/Documents/GitHub/CocosCreater_JumpOneJump_Ldd
+2018-04-15T14:26:32.119Z - normal: Initializing Cocos2d
+2018-04-15T14:26:32.268Z - normal: Initializing Asset Database
+2018-04-15T14:26:32.293Z - success: protocol uuid registerred
+2018-04-15T14:26:32.293Z - success: protocol db registerred
+2018-04-15T14:26:32.294Z - success: protocol thumbnail registerred
+2018-04-15T14:26:32.294Z - normal: Loading editor/builtin packages
+2018-04-15T14:26:32.310Z - success: anysdk loaded
+2018-04-15T14:26:32.402Z - success: assets loaded
+2018-04-15T14:26:32.405Z - success: builder loaded
+2018-04-15T14:26:32.412Z - success: cocos-analytics loaded
+2018-04-15T14:26:32.416Z - success: console loaded
+2018-04-15T14:26:32.445Z - success: fb-instant-games loaded
+2018-04-15T14:26:32.449Z - success: hierarchy loaded
+2018-04-15T14:26:32.453Z - success: inspector loaded
+2018-04-15T14:26:32.454Z - success: keystore loaded
+2018-04-15T14:26:32.460Z - success: node-library loaded
+2018-04-15T14:26:32.462Z - success: package-asset loaded
+2018-04-15T14:26:32.463Z - success: preferences loaded
+2018-04-15T14:26:32.466Z - success: project-exporter loaded
+2018-04-15T14:26:32.478Z - success: project-importer loaded
+2018-04-15T14:26:32.482Z - success: project-settings loaded
+2018-04-15T14:26:32.485Z - success: ui-kit loaded
+2018-04-15T14:26:32.489Z - success: ui-grid loaded
+2018-04-15T14:26:32.492Z - success: scene loaded
+2018-04-15T14:26:32.494Z - success: sprite-editor loaded
+2018-04-15T14:26:32.497Z - success: store loaded
+2018-04-15T14:26:32.502Z - success: timeline loaded
+2018-04-15T14:26:32.502Z - normal: Loading builtin packages
+2018-04-15T14:26:32.505Z - success: asset-db-debugger loaded
+2018-04-15T14:26:32.506Z - success: color-picker loaded
+2018-04-15T14:26:32.509Z - success: package-manager loaded
+2018-04-15T14:26:32.513Z - success: sdkbox loaded
+2018-04-15T14:26:32.518Z - success: tester loaded
+2018-04-15T14:26:32.521Z - success: ui-kit-preview-extra loaded
+2018-04-15T14:26:32.524Z - success: ui-kit-preview loaded
+2018-04-15T14:26:32.526Z - success: ui-tree loaded
+2018-04-15T14:26:33.294Z - normal: Initializing project /Users/lidongdong/Documents/GitHub/CocosCreater_JumpOneJump_Ldd
+2018-04-15T14:26:33.296Z - normal: Loading packages
+2018-04-15T14:26:33.300Z - normal: Watching packages
+2018-04-15T14:26:33.310Z - normal: Run Application
+2018-04-15T14:26:33.629Z - success: preview server running at http://localhost:7457
+2018-04-15T14:26:37.016Z - normal: 1.9.0
+2018-04-15T14:27:44.308Z - error: { Error: connect ETIMEDOUT 211.151.21.150:443
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '211.151.21.150',
+  port: 443 }
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/share/login/lib/user.js:1:1441
+    at ClientRequest.Https.request.on.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/share/login/lib/network.js:1:873)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1283:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+2018-04-15T14:28:56.948Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:2822
+2018-04-15T14:28:56.949Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:2826
+2018-04-15T14:30:30.402Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:4581
