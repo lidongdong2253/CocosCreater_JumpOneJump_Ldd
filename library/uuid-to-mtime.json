@@ -255,8 +255,8 @@
     "relativePath": "Res/block3.png"
   },
   "b1a959a1-7eba-4119-bd6f-10f70559cbbd": {
-    "asset": 1523843490000,
-    "meta": 1523843490000,
+    "asset": 1524054673000,
+    "meta": 1524054673000,
     "relativePath": "Scenes/GameScene.fire"
   },
   "eb2e65e7-c46d-4e5c-b3bb-c77e1992da68": {
@@ -265,7 +265,7 @@
     "relativePath": "Res/piece.png"
   },
   "f93d06e4-8f43-4f7f-9258-ed52325de301": {
-    "asset": 1523843386000,
+    "asset": 1523843407000,
     "meta": 1523843386000,
     "relativePath": "Scripts"
   },
