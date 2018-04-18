@@ -1,75 +1,118 @@
-2018-04-15T14:26:28.603Z - normal: Load ~/.CocosCreator/settings.json
-2018-04-15T14:26:28.606Z - normal: checking language setting...
-2018-04-15T14:26:28.606Z - normal: Language: zh
-2018-04-15T14:26:29.126Z - success: protocol editor-framework registered
-2018-04-15T14:26:29.126Z - success: protocol app registered
-2018-04-15T14:26:29.126Z - success: protocol theme registered
-2018-04-15T14:26:29.126Z - success: protocol packages registered
-2018-04-15T14:26:29.127Z - success: protocol unpack registerred
-2018-04-15T14:26:29.127Z - success: protocol disable-commonjs registerred
-2018-04-15T14:26:32.117Z - normal: failed to connect login server due to request timeout
-2018-04-15T14:26:32.118Z - normal: Check project /Users/lidongdong/Documents/GitHub/CocosCreater_JumpOneJump_Ldd
-2018-04-15T14:26:32.119Z - normal: Initializing Cocos2d
-2018-04-15T14:26:32.268Z - normal: Initializing Asset Database
-2018-04-15T14:26:32.293Z - success: protocol uuid registerred
-2018-04-15T14:26:32.293Z - success: protocol db registerred
-2018-04-15T14:26:32.294Z - success: protocol thumbnail registerred
-2018-04-15T14:26:32.294Z - normal: Loading editor/builtin packages
-2018-04-15T14:26:32.310Z - success: anysdk loaded
-2018-04-15T14:26:32.402Z - success: assets loaded
-2018-04-15T14:26:32.405Z - success: builder loaded
-2018-04-15T14:26:32.412Z - success: cocos-analytics loaded
-2018-04-15T14:26:32.416Z - success: console loaded
-2018-04-15T14:26:32.445Z - success: fb-instant-games loaded
-2018-04-15T14:26:32.449Z - success: hierarchy loaded
-2018-04-15T14:26:32.453Z - success: inspector loaded
-2018-04-15T14:26:32.454Z - success: keystore loaded
-2018-04-15T14:26:32.460Z - success: node-library loaded
-2018-04-15T14:26:32.462Z - success: package-asset loaded
-2018-04-15T14:26:32.463Z - success: preferences loaded
-2018-04-15T14:26:32.466Z - success: project-exporter loaded
-2018-04-15T14:26:32.478Z - success: project-importer loaded
-2018-04-15T14:26:32.482Z - success: project-settings loaded
-2018-04-15T14:26:32.485Z - success: ui-kit loaded
-2018-04-15T14:26:32.489Z - success: ui-grid loaded
-2018-04-15T14:26:32.492Z - success: scene loaded
-2018-04-15T14:26:32.494Z - success: sprite-editor loaded
-2018-04-15T14:26:32.497Z - success: store loaded
-2018-04-15T14:26:32.502Z - success: timeline loaded
-2018-04-15T14:26:32.502Z - normal: Loading builtin packages
-2018-04-15T14:26:32.505Z - success: asset-db-debugger loaded
-2018-04-15T14:26:32.506Z - success: color-picker loaded
-2018-04-15T14:26:32.509Z - success: package-manager loaded
-2018-04-15T14:26:32.513Z - success: sdkbox loaded
-2018-04-15T14:26:32.518Z - success: tester loaded
-2018-04-15T14:26:32.521Z - success: ui-kit-preview-extra loaded
-2018-04-15T14:26:32.524Z - success: ui-kit-preview loaded
-2018-04-15T14:26:32.526Z - success: ui-tree loaded
-2018-04-15T14:26:33.294Z - normal: Initializing project /Users/lidongdong/Documents/GitHub/CocosCreater_JumpOneJump_Ldd
-2018-04-15T14:26:33.296Z - normal: Loading packages
-2018-04-15T14:26:33.300Z - normal: Watching packages
-2018-04-15T14:26:33.310Z - normal: Run Application
-2018-04-15T14:26:33.629Z - success: preview server running at http://localhost:7457
-2018-04-15T14:26:37.016Z - normal: 1.9.0
-2018-04-15T14:27:44.308Z - error: { Error: connect ETIMEDOUT 211.151.21.150:443
-    at Object.exports._errnoException (util.js:1050:11)
-    at exports._exceptionWithHostPort (util.js:1073:20)
-    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
-  code: 'ETIMEDOUT',
-  errno: 'ETIMEDOUT',
-  syscall: 'connect',
-  address: '211.151.21.150',
-  port: 443 }
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/share/login/lib/user.js:1:1441
-    at ClientRequest.Https.request.on.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/share/login/lib/network.js:1:873)
-    at emitOne (events.js:96:13)
-    at ClientRequest.emit (events.js:191:7)
-    at TLSSocket.socketErrorListener (_http_client.js:358:9)
-    at emitOne (events.js:96:13)
-    at TLSSocket.emit (events.js:191:7)
-    at emitErrorNT (net.js:1283:8)
-    at _combinedTickCallback (internal/process/next_tick.js:80:11)
-    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
-2018-04-15T14:28:56.948Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:2822
-2018-04-15T14:28:56.949Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:2826
-2018-04-15T14:30:30.402Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:4581
+2018-04-16T01:48:06.392Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-16T01:48:06.397Z - normal: checking language setting...
+2018-04-16T01:48:06.397Z - normal: Language: zh
+2018-04-16T01:48:09.738Z - success: protocol editor-framework registered
+2018-04-16T01:48:09.738Z - success: protocol app registered
+2018-04-16T01:48:09.738Z - success: protocol theme registered
+2018-04-16T01:48:09.738Z - success: protocol packages registered
+2018-04-16T01:48:09.739Z - success: protocol unpack registerred
+2018-04-16T01:48:09.739Z - success: protocol disable-commonjs registerred
+2018-04-16T01:48:09.832Z - normal: connected!
+2018-04-16T01:48:09.835Z - normal: Check project /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_JumpOneJump_Ldd
+2018-04-16T01:48:09.836Z - normal: Initializing Cocos2d
+2018-04-16T01:48:10.375Z - normal: Initializing Asset Database
+2018-04-16T01:48:10.495Z - success: protocol uuid registerred
+2018-04-16T01:48:10.495Z - success: protocol db registerred
+2018-04-16T01:48:10.496Z - success: protocol thumbnail registerred
+2018-04-16T01:48:10.496Z - normal: Loading editor/builtin packages
+2018-04-16T01:48:10.593Z - success: anysdk loaded
+2018-04-16T01:48:10.789Z - success: assets loaded
+2018-04-16T01:48:10.793Z - success: builder loaded
+2018-04-16T01:48:10.795Z - success: cocos-analytics loaded
+2018-04-16T01:48:10.800Z - success: console loaded
+2018-04-16T01:48:10.833Z - success: fb-instant-games loaded
+2018-04-16T01:48:10.838Z - success: hierarchy loaded
+2018-04-16T01:48:10.843Z - success: inspector loaded
+2018-04-16T01:48:10.845Z - success: keystore loaded
+2018-04-16T01:48:10.854Z - success: node-library loaded
+2018-04-16T01:48:10.856Z - success: package-asset loaded
+2018-04-16T01:48:10.872Z - success: preferences loaded
+2018-04-16T01:48:10.875Z - success: project-exporter loaded
+2018-04-16T01:48:10.892Z - success: project-importer loaded
+2018-04-16T01:48:10.895Z - success: project-settings loaded
+2018-04-16T01:48:10.899Z - success: ui-kit loaded
+2018-04-16T01:48:10.919Z - success: ui-grid loaded
+2018-04-16T01:48:10.923Z - success: scene loaded
+2018-04-16T01:48:10.925Z - success: sprite-editor loaded
+2018-04-16T01:48:10.929Z - success: store loaded
+2018-04-16T01:48:10.936Z - success: timeline loaded
+2018-04-16T01:48:10.936Z - normal: Loading builtin packages
+2018-04-16T01:48:10.949Z - success: asset-db-debugger loaded
+2018-04-16T01:48:10.950Z - success: color-picker loaded
+2018-04-16T01:48:10.954Z - success: package-manager loaded
+2018-04-16T01:48:10.963Z - success: sdkbox loaded
+2018-04-16T01:48:10.969Z - success: tester loaded
+2018-04-16T01:48:10.973Z - success: ui-kit-preview-extra loaded
+2018-04-16T01:48:10.976Z - success: ui-kit-preview loaded
+2018-04-16T01:48:10.979Z - success: ui-tree loaded
+2018-04-16T01:48:12.474Z - normal: Initializing project /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_JumpOneJump_Ldd
+2018-04-16T01:48:12.476Z - normal: Loading packages
+2018-04-16T01:48:12.481Z - normal: Watching packages
+2018-04-16T01:48:12.491Z - normal: Run Application
+2018-04-16T01:48:14.677Z - warn: [db-task][init] Backup unused meta file: db://assets/Scripts.meta
+2018-04-16T01:48:57.154Z - success: preview server running at http://localhost:7456
+2018-04-16T01:49:03.249Z - normal: 1.9.0
+2018-04-16T01:51:35.434Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 955.00
+2018-04-16T01:51:35.479Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-16T01:51:35.606Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-04-16T01:51:36.004Z - normal: Simulator: 
+2018-04-16T01:51:36.004Z - normal: Simulator: {
+2018-04-16T01:51:36.005Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-16T01:51:36.005Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-16T01:51:36.005Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-16T01:51:36.006Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-04-16T01:51:36.006Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-16T01:51:36.006Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-04-16T01:51:36.006Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-16T01:51:36.007Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-16T01:51:36.007Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-16T01:51:36.007Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-16T01:51:36.007Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-16T01:51:36.008Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-04-16T01:51:36.009Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-16T01:51:36.010Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-16T01:51:36.010Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-16T01:51:36.010Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.32.48
+2018-04-16T01:51:36.010Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-16T01:51:36.011Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-16T01:51:36.011Z - normal: Simulator: }
+2018-04-16T01:51:36.011Z - normal: Simulator: 
+2018-04-16T01:51:36.011Z - normal: Simulator: 
+2018-04-16T01:51:36.012Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-16T01:51:36.128Z - normal: Simulator: Project Config:
+2018-04-16T01:51:36.129Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-04-16T01:51:36.129Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-04-16T01:51:36.129Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-04-16T01:51:36.130Z - normal: Simulator:     frame size: 960 x 640
+2018-04-16T01:51:36.130Z - normal: Simulator:     frame scale: 1.00
+2018-04-16T01:51:36.130Z - normal: Simulator:     show console: NO
+2018-04-16T01:51:36.131Z - normal: Simulator:     write debug log: NO ()
+2018-04-16T01:51:36.131Z - normal: Simulator:     listen: 
+2018-04-16T01:51:36.132Z - normal: Simulator:     debugger: none
+2018-04-16T01:51:36.132Z - normal: Simulator:     add searching path:
+2018-04-16T01:51:36.132Z - normal: Simulator: ------------------------------------------------
+2018-04-16T01:51:36.133Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-16T01:51:36.133Z - normal: Simulator: ------------------------------------------------
+2018-04-16T01:51:36.133Z - normal: Simulator: Initializing JavaScriptCore 
+2018-04-16T01:51:36.747Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-04-16T01:51:37.135Z - normal: Simulator: iShow!
+2018-04-16T01:51:37.528Z - normal: Simulator: JS: InitScene: 1.7179999999998472ms
+2018-04-16T01:51:37.539Z - normal: Simulator: JS: AutoRelease: 0.16999999999984539ms
+2018-04-16T01:51:37.539Z - normal: Simulator: JS: Destroy: 0.057999999999992724ms
+2018-04-16T01:51:37.539Z - normal: Simulator: JS: AttachPersist: 0.005000000000109139ms
+2018-04-16T01:51:37.546Z - normal: Simulator: JS: Activate: 4.094000000000051ms
+2018-04-16T01:51:37.546Z - normal: Simulator: JS: =======OS X
+2018-04-16T01:51:47.919Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-04-16T01:51:47.919Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-04-16T01:52:02.707Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-04-16T01:52:02.723Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 67
+2018-04-16T01:52:02.781Z - normal: Simulator: GC end ..., (Native -> JS map) count: 39
+2018-04-16T01:52:02.782Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 39
+2018-04-16T01:52:02.786Z - normal: Simulator: GC end ..., (Native -> JS map) count: 39
+2018-04-16T01:52:02.786Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 39
+2018-04-16T01:52:02.793Z - normal: Simulator: GC end ..., (Native -> JS map) count: 39
+2018-04-16T01:52:02.872Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-04-16T01:52:02.873Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-04-16T01:52:02.873Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-04-16T01:52:02.874Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-04-16T10:02:24.105Z - info: shutdown preview server
